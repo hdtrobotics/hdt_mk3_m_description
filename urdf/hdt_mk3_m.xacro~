@@ -448,7 +448,7 @@
 		<hdt id="7"/>
 		<axis xyz="0 0 1"/>
 		<limit effort="60.0" lower="-1.5708" upper="1.5708" velocity="2.0944"/>
-		<origin xyz="-0.02395 -0.08200 -0.0279" rpy="0 0 0"/>
+		<origin xyz="-0.02395 -0.08231 -0.02697" rpy="0 0 0"/>
 		<parent link="link6b"/>
 		<child link="link7"/>
 		<dynamics damping="0.7" friction="0.0"/>
