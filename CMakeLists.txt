@@ -7,7 +7,7 @@ project(hdt_mk3_m_description)
 find_package(catkin REQUIRED COMPONENTS
   roscpp
   rospy
-  stdmsgs
+  std_msgs
 )
 
 ## System dependencies are found with CMake's conventions
