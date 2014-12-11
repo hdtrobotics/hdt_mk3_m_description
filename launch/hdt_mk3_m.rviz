@@ -62,12 +62,128 @@ Visualization Manager:
           Alpha: 1
           Show Axes: false
           Show Trail: false
+          Value: true
+        camera:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        camera_bracket:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        index_dist:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        index_med:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        index_prox:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        link0:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
         link1:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
         link2a:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        link2b:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        link3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        link4a:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        link4b:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        link5:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        link6a:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        link6b:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        link7:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        palm:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        palm_pad:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ring_dist:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ring_med:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        ring_prox:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        thumb_base:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        thumb_dist:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        thumb_med:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        thumb_prox:
           Alpha: 1
           Show Axes: false
           Show Trail: false
@@ -102,22 +218,22 @@ Visualization Manager:
   Views:
     Current:
       Class: rviz/Orbit
-      Distance: 1.24062
+      Distance: 1.63014
       Enable Stereo Rendering:
         Stereo Eye Separation: 0.06
         Stereo Focal Distance: 1
         Swap Stereo Eyes: false
         Value: false
       Focal Point:
-        X: -0.0247573
-        Y: -0.224867
-        Z: -0.0689555
+        X: -0.00847632
+        Y: -0.434069
+        Z: -0.37208
       Name: Current View
       Near Clip Distance: 0.01
-      Pitch: 0.0602029
+      Pitch: 0.395203
       Target Frame: <Fixed Frame>
       Value: Orbit (rviz)
-      Yaw: 4.28175
+      Yaw: 5.90677
     Saved: ~
 Window Geometry:
   Displays:
